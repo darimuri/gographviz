@@ -8,7 +8,7 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/awalterschulze/gographviz/internal/token"
+	"github.com/darimuri/gographviz/internal/token"
 )
 
 type ErrorSymbol interface {

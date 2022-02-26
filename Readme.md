@@ -18,15 +18,15 @@ output := graph.String()
 
 ### Documentation ###
 
-  - The [godoc](https://godoc.org/github.com/awalterschulze/gographviz) includes some more examples.
-  - [How to implement an anonymous subgraph](https://github.com/awalterschulze/gographviz/issues/59)
+  - The [godoc](https://godoc.org/github.com/darimuri/gographviz) includes some more examples.
+  - [How to implement an anonymous subgraph](https://github.com/darimuri/gographviz/issues/59)
 
 ### Installation ###
-go get github.com/awalterschulze/gographviz
+go get github.com/darimuri/gographviz
 
 ### Build and Tests ###
 
-[![Build Status](https://github.com/awalterschulze/gographviz/workflows/build/badge.svg)](https://github.com/awalterschulze/gographviz/actions)
+[![Build Status](https://github.com/darimuri/gographviz/workflows/build/badge.svg)](https://github.com/darimuri/gographviz/actions)
 
 
 ### Users ###
